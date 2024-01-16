@@ -1,8 +1,8 @@
 ---
 
-# Hazelcast Client Data
+# Harmony Initiatives Microservice
 
-This repository contains the implementation of a Hazelcast client application.
+This repository contains the SpringBoot implementation of the microservice interface for supporting the primary UI of the application
 
 ## Controller Endpoints
 
